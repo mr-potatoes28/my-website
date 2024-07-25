@@ -1,2 +1,2 @@
-# my-website
-justs my website
+# my_website
+just my website
